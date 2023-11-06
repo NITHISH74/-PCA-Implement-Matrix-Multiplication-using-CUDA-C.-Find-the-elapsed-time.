@@ -21,7 +21,9 @@ Measure elapsed time, print the result matrix and elapsed time, and free device 
 
 ### Step 6: 
 Terminate the program. 
-## Output:
+
+## Program:
+
 ```cuda
 #include <stdio.h>
 #include <sys/time.h>
