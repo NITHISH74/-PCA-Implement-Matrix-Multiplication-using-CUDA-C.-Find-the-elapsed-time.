@@ -23,7 +23,10 @@ Measure elapsed time, print the result matrix and elapsed time, and free device 
 Terminate the program. 
 
 ## Program:
-
+```
+Developer Name : Nithishwar S
+Register Name : 212221230071
+```
 ```cuda
 #include <stdio.h>
 #include <sys/time.h>
